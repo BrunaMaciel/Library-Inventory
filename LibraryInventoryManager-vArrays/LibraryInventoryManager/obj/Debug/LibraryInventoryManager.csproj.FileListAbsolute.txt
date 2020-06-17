@@ -1,0 +1,15 @@
+C:\Users\autresetud\Desktop\Exercises\Project\LibraryInventoryManager\LibraryInventoryManager\bin\Debug\LibraryInventoryManager.exe.config
+C:\Users\autresetud\Desktop\Exercises\Project\LibraryInventoryManager\LibraryInventoryManager\obj\Debug\LibraryInventoryManager.csprojResolveAssemblyReference.cache
+C:\Users\autresetud\Desktop\Exercises\Project\LibraryInventoryManager\LibraryInventoryManager\bin\Debug\LibraryInventoryManager.exe
+C:\Users\autresetud\Desktop\Exercises\Project\LibraryInventoryManager\LibraryInventoryManager\bin\Debug\LibraryInventoryManager.pdb
+C:\Users\autresetud\Desktop\Exercises\Project\LibraryInventoryManager\LibraryInventoryManager\obj\Debug\LibraryInventoryManager.exe
+C:\Users\autresetud\Desktop\Exercises\Project\LibraryInventoryManager\LibraryInventoryManager\obj\Debug\LibraryInventoryManager.pdb
+F:\cdi\LibraryInventoryManager\LibraryInventoryManager\bin\Debug\LibraryInventoryManager.exe.config
+F:\cdi\LibraryInventoryManager\LibraryInventoryManager\obj\Debug\LibraryInventoryManager.exe
+F:\cdi\LibraryInventoryManager\LibraryInventoryManager\obj\Debug\LibraryInventoryManager.pdb
+F:\cdi\LibraryInventoryManager\LibraryInventoryManager\bin\Debug\LibraryInventoryManager.exe
+F:\cdi\LibraryInventoryManager\LibraryInventoryManager\bin\Debug\LibraryInventoryManager.pdb
+F:\cdi\LibraryInventoryManager\LibraryInventoryManager\obj\Debug\LibraryInventoryManager.csprojResolveAssemblyReference.cache
+F:\cdi\LibraryInventoryManager-vArrays\LibraryInventoryManager\bin\Debug\LibraryInventoryManager.exe.config
+F:\cdi\LibraryInventoryManager-vArrays\LibraryInventoryManager\obj\Debug\LibraryInventoryManager.exe
+F:\cdi\LibraryInventoryManager-vArrays\LibraryInventoryManager\obj\Debug\LibraryInventoryManager.pdb
